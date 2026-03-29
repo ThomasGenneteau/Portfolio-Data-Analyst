@@ -1,6 +1,6 @@
-title: "Thomas GENNETEAU"
-logo: img\Profil.jpg
-description: "Portfolio Data Analyst"
+title: "Mon portfolio Data Analyst"
+logo: \img\Profil.jpg
+description: "Thomas GENNETEAU"
 show_downloads: true
 theme: jekyll-theme-minimal
 lang: fr
